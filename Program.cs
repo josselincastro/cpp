@@ -1,54 +1,53 @@
 using System;
 
-namespace inventario
+namespace _10_Ordenes
 {
     class Program
-    {        
+    {
         static void Main(string[] args)
         {
+            DatosdePrueba datos = new DatosdePrueba();
             string opcion = "";
-            Inventario inventario = new Inventario();
 
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("Sistema de Inventario");
-                Console.WriteLine("*********************");
+                Console.WriteLine("Sistema de Ordenes");
+                Console.WriteLine("==================");
                 Console.WriteLine("");
-                Console.WriteLine("1 - Productos");
-                Console.WriteLine("2 - Ingreso de Inventario");
-                Console.WriteLine("3 - Salida de Inventario");
-                Console.WriteLine("4 - Ajuste Positivo");
-                Console.WriteLine("5 - Ajuste Negativo");
+                Console.WriteLine("1 - Lista de Productos");
+                Console.WriteLine("2 - Crear Orden");
+                Console.WriteLine("3 - Lista de Clientes");
+                Console.WriteLine("4 - Lista de Vendedores");
+                Console.WriteLine("5 - Lista de Ordenes");
                 Console.WriteLine("0 - Salir");
                 opcion = Console.ReadLine();
 
                 switch (opcion)
                 {
-                    case "1": 
-                        inventario.listarProductos();
+                    case "1":
+                        datos.ListarProductos();
                         break;
                     case "2":
-                        inventario.ingresoDeInventario();
-                        break;   
+                        datos.CrearOrden();
+                        break;
                     case "3":
-                       inventario.SalidaDeInventario();
+                        datos.ListarClientes();
                         break;
                     case "4":
-                        inventario.Ajustepositivo();
-                        break;
+                        datos.ListarVendedores();
+                        break;      
                     case "5":
-                        inventario.Ajustenegativo();
-                        break;
-                                             
+                        datos.ListarOrdenes();
+                        break;                                          
                     default:
-                    break;
+                        break;
                 }
 
                 if (opcion == "0") {
                     break;
                 }
-            }            
+            }
         }
     }
 }
