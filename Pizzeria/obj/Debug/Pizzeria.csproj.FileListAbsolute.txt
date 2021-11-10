@@ -78,3 +78,11 @@ C:\Users\Carlos Lagos\Desktop\Proyecto\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Form
 C:\Users\Carlos Lagos\Desktop\Proyecto\Pizzeria\Pizzeria\obj\Debug\Pizzeria.FormVentas.resources
 C:\Users\Carlos Lagos\Desktop\Proyecto\Pizzeria\Pizzeria\obj\Debug\Pizzeria.Properties.Resources.resources
 C:\Users\Carlos Lagos\Desktop\Proyecto\Pizzeria\Pizzeria\obj\Debug\Pizzeria.csproj.GenerateResource.Cache
+C:\Users\josue\Documents\III PAC 2021\1800 - Lenguaje III\Proyecto\Pizzeria\Pizzeria\bin\Debug\EntityFramework.dll
+C:\Users\josue\Documents\III PAC 2021\1800 - Lenguaje III\Proyecto\Pizzeria\Pizzeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josue\Documents\III PAC 2021\1800 - Lenguaje III\Proyecto\Pizzeria\Pizzeria\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\josue\Documents\III PAC 2021\1800 - Lenguaje III\Proyecto\Pizzeria\Pizzeria\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\josue\Documents\III PAC 2021\1800 - Lenguaje III\Proyecto\Pizzeria\Pizzeria\bin\Debug\EntityFramework.xml
+C:\Users\josue\Documents\III PAC 2021\1800 - Lenguaje III\Proyecto\Pizzeria\Pizzeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josue\Documents\III PAC 2021\1800 - Lenguaje III\Proyecto\Pizzeria\Pizzeria\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\josue\Documents\III PAC 2021\1800 - Lenguaje III\Proyecto\Pizzeria\Pizzeria\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
